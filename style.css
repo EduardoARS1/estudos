@@ -2,3 +2,31 @@
     margin: 0px;
     padding: 0px;
 }
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.conteudo {
+    width: 400px;  
+    height: 300px;
+    background-color: gray;
+    margin: 0px;
+    padding: 0px;
+    font-size: 12px;
+}
+
+.caixa1{
+    width: 200px;
+    height: 150px;
+    background-color: red;
+    margin: auto;
+}
+
+.caixa2 {
+    width: 200px;
+    height: 150px;
+    background-color: blue;
+    margin: auto;
+}
