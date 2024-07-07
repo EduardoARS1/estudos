@@ -1,0 +1,17 @@
+/* * {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+} */
+
+.blue {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+.red {
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
