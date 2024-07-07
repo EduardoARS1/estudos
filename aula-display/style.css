@@ -1,0 +1,30 @@
+/* * {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+} */
+
+.quadrado {
+    width: 100px;
+    height: 100px;
+    display: inline-flex;
+}
+
+.blue {
+    /* width: 100px; */
+    /* height: 100px; */
+    background-color: blue;
+    /* display: inline-block; */
+    font-size: larger;
+    font-weight: 900;
+    text-align: center;
+    color: red;
+    justify-content: center;
+}
+
+.red {
+    /* width: 100px; */
+    /* height: 100px; */
+    background-color: red;
+    /* display: inline-block; */
+}
