@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     -webkit-font-smoothing: antialiased; /*usado para tirar o serrilhado das fontes quando der zoom, não é obrigatório, é um detalhe*/
+    font-family: "Inter", sans-serif;
 }
 
 /* a principio as configurações de reset são essas 3 propriedades e valores no seletor " * " outros ainda são a gosto do dev */
