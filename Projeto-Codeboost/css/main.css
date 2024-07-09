@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased; /*usado para tirar o serrilhado das fontes quando der zoom, não é obrigatório, é um detalhe*/
+}
+
+/* a principio as configurações de reset são essas 3 propriedades e valores no seletor " * " outros ainda são a gosto do dev */
+
+img {
+    max-width: 100%; /*para a imagem usar 100% do display na largura, fundamental para responsivo*/
+    display: block; /*faz com que os items ocupem toda a largura*/
+}
+
+a {
+    display: inline-block; /*tentar entender depois o porque disso*/
+    text-decoration: none; /*para remover a linha dos links*/
+}
+
+ul {
+    list-style: none; /*para que as listas não numeradas mostrem as bolinhas*/
+}
+
+/* ate aqui parece o padrão de configuração simples o que vem a partir daqui, são detalhes pessoal do instrutor */
+
