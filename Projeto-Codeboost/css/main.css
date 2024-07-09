@@ -3,7 +3,7 @@
     padding: 0;
     box-sizing: border-box;
     -webkit-font-smoothing: antialiased; /*usado para tirar o serrilhado das fontes quando der zoom, não é obrigatório, é um detalhe*/
-    font-family: "Inter", sans-serif;
+    font-family: "Inter", sans-serif; /*adicionado como fonte padrão do projeto e mais uma outra pra ser usada de maneira pontual*/
 }
 
 /* a principio as configurações de reset são essas 3 propriedades e valores no seletor " * " outros ainda são a gosto do dev */
@@ -24,3 +24,6 @@ ul {
 
 /* ate aqui parece o padrão de configuração simples o que vem a partir daqui, são detalhes pessoal do instrutor */
 
+html {
+    font-size: 62.5%; /*tamanho pessoal utilizado para trabalhar com rem ao longo do projeto, esse tamanho equivale a 10px, por padrão o tamanho é de 16px e 62,5% é exatamente 10px*/
+}
