@@ -24,6 +24,12 @@ ul {
 
 /* ate aqui parece o padrão de configuração simples o que vem a partir daqui, são detalhes pessoal do instrutor */
 
+button {
+    background-color: transparent;
+    border: 0;
+    cursor: pointer;
+}
+
 html {
     font-size: 62.5%; /*tamanho pessoal utilizado para trabalhar com rem ao longo do projeto, esse tamanho equivale a 10px, por padrão o tamanho é de 16px e 62,5% é exatamente 10px*/
     background-color: var(--gray-900);
