@@ -19,7 +19,7 @@ a {
 }
 
 ul {
-    list-style: none; /*para que as listas não numeradas mostrem as bolinhas*/
+    list-style: none; /*para que as listas não numeradas não mostrem as bolinhas*/
 }
 
 /* ate aqui parece o padrão de configuração simples o que vem a partir daqui, são detalhes pessoal do instrutor */
