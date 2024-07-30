@@ -1,0 +1,13 @@
+/* Estilo para os itens */
+.item {
+    padding: 10px;
+    background-color: lightcoral;
+    margin: 5px;
+    color: white;
+}
+
+/* Contêiner com display: inline-flex */
+.inline-flex-container {
+    display: inline-flex;
+    border: 2px solid blue;
+}
