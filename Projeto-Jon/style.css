@@ -75,7 +75,28 @@ h1 {
     align-self: stretch;
 }
 
-img {
+.img {
     border-radius: 28px;
     background: url(imgs/image.png) lightgray 50% / cover no-repeat;
+}
+
+p {
+    color: var(--text-secondary, #333);
+
+/* paragraph */
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.imgList1 {
+    width: 1120px;
+    height: 350px;
+    gap: 0px;
+    border-radius: 28px 0px 0px 0px;
+    opacity: 0px;
+    border-radius: 28px;
+    background: url(imgs/imgList1.png) lightgray 50% / cover no-repeat;
 }
