@@ -18,12 +18,13 @@ h2 {
 }
 
 .primeira {
-    display: inline-flex;
+    display: flex;
     margin-top: 10px;
+    justify-content: center;
 }
 
 .esquerda {
-    width: 120px;
+    width: 170px;
     height: 30px;
     border: 2px solid;
     margin-right: 8px;
@@ -31,16 +32,52 @@ h2 {
 }
 
 .centro {
-    width: 120px;
+    width: 170px;
     height: 30px;
     border: 2px solid;
     background-color: white;
 }
 
 .direita {
-    width: 120px;
+    width: 170px;
     height: 30px;
     border: 2px solid;
     margin-left: 8px;
     background-color: white;
+}
+
+.retangulo1 {
+    width: 526px;
+    height: 100px;
+    background-color: white;
+    border: 2px solid;
+}
+
+.esquerda2 {
+    width: 258px;
+    height: 100px;
+    background-color: white;
+    border: 2px solid;
+}
+
+.direita2 {
+    width: 258px;
+    height: 100px;
+    background-color: white;
+    border: 2px solid;
+    margin-left: 8px;
+}
+
+.comentario {
+    width: 526px;
+    height: 300px;
+    background-color: white;
+    border: 2px solid;
+}
+
+.rodape {
+    width: 526px;
+    height: 150px;
+    background-color: white;
+    border: 2px solid;
 }
